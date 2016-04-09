@@ -121,8 +121,10 @@
 	       </ul>
 		</div>
 	</div>
+	<a class="logo" <h3>翻墙看世界</h3>
+		
+		</div>
 	
-	<h3>这个小站也许不能生存很长时间，请多收藏本站长期有效的链接！</h3>
 </div>
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
