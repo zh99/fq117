@@ -19,7 +19,7 @@
 	</div>
 	<div id="nav" class="row">
 		<div class="twelvecol">
-				个别网站IE6、7、8可能打不开，建议换用谷歌Chrome浏览器
+				
 		
 		</div>
 	</div>
@@ -121,7 +121,7 @@
 	       </ul>
 		</div>
 	</div>
-	<a class="logo" <h3>这个小站也许不能生存很长时间，请多收藏本站长期有效的链接！</h3>
+
 		
 		</div>
 	
