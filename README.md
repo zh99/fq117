@@ -40,7 +40,7 @@
 		</div>
 		<div class="threecol">
 		<ul>
-				<li><a href="http://zh10.pwnz.org/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
+				<li><a href="http://zh11.pwnz.org/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
 		</ul>
 		</div>
 		<div class="threecol">
@@ -50,7 +50,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="http://zh10.krash.net/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
+				<li><a href="http://zh111.jumpingcrab.com/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
 			</ul>
 		</div>
 		<div class="threecol">
@@ -70,7 +70,7 @@
 		<div class="threecol">
 			
 			<ul>	
-				<li><a href="http://zh10.krash.net/ip" title="" target="_blank" class="style1">聚缘阁代理（含视频等大量精彩资源）</a></li>
+				<li><a href="http://zh111.jumpingcrab.com/tv/" title="" target="_blank" class="style1">聚缘阁视频（推荐新片：雷人水浒）</a></li>
 			</ul>
 		</div>
 		<div class="threecol">
@@ -126,22 +126,6 @@
 		</div>
 	
 </div>
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=5649228; 
-var sc_invisible=1; 
-var sc_security="ff7596af"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="hits counter"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/5649228/0/ff7596af/1/"
-alt="hits counter"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
+
 </body>
 </html>
