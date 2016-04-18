@@ -60,7 +60,7 @@
 		<div class="threecol">
 			
 			<ul>	
-				<li><a href="http://2t.bex.bz/" title="" target="_blank" class="style1">聚缘阁</a></li>
+				<li><a href="http://zh11.pwnz.org/new" title="" target="_blank" class="style1">聚缘阁禁闻导航</a></li>
 			</ul>
 		</div>
 		<div class="threecol">
