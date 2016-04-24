@@ -28,7 +28,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="https://github.com/bannedbook/fanqiang/wiki" title="" target="_blank" class="style1">广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
+				<li><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank" >广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
 			<ul>
 				
 			
