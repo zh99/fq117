@@ -40,7 +40,7 @@
 		</div>
 		<div class="threecol">
 		<ul>
-				<li><a href="http://zh11.pwnz.org/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
+				<li><a href="http://zh12.pwnz.org/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
 		</ul>
 		</div>
 		<div class="threecol">
@@ -50,7 +50,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="http://zh111.jumpingcrab.com/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
+				<li><a href="http://zh112.jumpingcrab.com/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
 			</ul>
 		</div>
 		<div class="threecol">
@@ -60,7 +60,7 @@
 		<div class="threecol">
 			
 			<ul>	
-				<li><a href="http://zh11.pwnz.org/new" title="" target="_blank" class="style1">聚缘阁禁闻导航</a></li>
+				<li><a href="http://zh12.pwnz.org/new" title="" target="_blank" class="style1">聚缘阁禁闻导航</a></li>
 			</ul>
 		</div>
 		<div class="threecol">
@@ -70,7 +70,7 @@
 		<div class="threecol">
 			
 			<ul>	
-				<li><a href="http://zh111.jumpingcrab.com/tv/" title="" target="_blank" class="style1">聚缘阁视频（推荐新片：雷人水浒）</a></li>
+				<li><a href="http://zh112.jumpingcrab.com/tv/" title="" target="_blank" class="style1">聚缘阁视频（推荐新片：雷人水浒）</a></li>
 			</ul>
 		</div>
 		<div class="threecol">
