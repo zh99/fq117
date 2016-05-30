@@ -1,4 +1,3 @@
-# fanqiang
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
@@ -28,7 +27,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank" >广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
+				<li><a href="http://zzy.dnspage.xyz/" target="_blank" >禁闻网1</a></li>
 			<ul>
 				
 			
@@ -36,11 +35,21 @@
 		</div>
 		<div class="threecol">
 			
+			<ul>
+				<li><a href="http://zzx.dnspage.xyz/" target="_blank" >禁闻网2</a></li>
+			<ul>
+				
+
+			
+		</div>
+		
+		<div class="threecol">
+			
 			
 		</div>
 		<div class="threecol">
 		<ul>
-				<li><a href="http://zh12.pwnz.org/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
+				<li><a href="http://zh12.pwnz.org/jw/0" title="" target="_blank" class="style1">动态网1</a></li>
 		</ul>
 		</div>
 		<div class="threecol">
@@ -50,7 +59,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="http://zh112.jumpingcrab.com/jw/0" title="" target="_blank" class="style1">动.态.网</a></li>
+				<li><a href="http://zh112.jumpingcrab.com/jw/0" title="" target="_blank" class="style1">动态网2</a></li>
 			</ul>
 		</div>
 		<div class="threecol">
@@ -74,9 +83,24 @@
 			</ul>
 		</div>
 		<div class="threecol">
-			
+			<ul>	
+				<li><a href="http://gdsg.pwnz.org/mob/" title="" target="_blank" class="style1">觉梦网（手机版）</a></li>
+			</ul>
 			
 		</div>
+		<div class="threecol">
+			<ul>	
+				<li><a href="http://gdsg.pwnz.org" title="" target="_blank" class="style1">觉梦网（电脑版）</a></li>
+			</ul>
+			
+		</div>
+		<div class="threecol">
+			
+			<ul>
+				<li><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank" >广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
+			<ul>
+			</div>
+		
 		<div class="threecol">
 			
 			<ul>
