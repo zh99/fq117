@@ -25,7 +25,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="http://zzw.dnspage.xyz/" target="_blank" >禁闻网1</a></li>
+				<li><a href="http://zzz.healththe.xyz" target="_blank" >禁闻网1</a></li>
 			<ul>
 				
 			
