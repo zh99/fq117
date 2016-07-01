@@ -47,39 +47,10 @@
 		</div>
 		<div class="threecol">
 		<ul>
-				<li><a href="http://zh12.pwnz.org/jw/0" title="" target="_blank" class="style1">动态网1</a></li>
+				<li><a href="https://github.com/juyuange/jyg/wiki/jygproxy" title="" target="_blank" class="style1">动态网</a></li>
 		</ul>
 		</div>
-		<div class="threecol">
-			
-			
-		</div>
-		<div class="threecol">
-			
-			<ul>
-				<li><a href="http://zh112.jumpingcrab.com/jw/0" title="" target="_blank" class="style1">动态网2</a></li>
-			</ul>
-		</div>
-		<div class="threecol">
-			
-			
-		</div>
-		<div class="threecol">
-			
-			<ul>	
-				<li><a href="http://zh12.pwnz.org/new" title="" target="_blank" class="style1">聚缘阁禁闻导航</a></li>
-			</ul>
-		</div>
-		<div class="threecol">
-			
-			
-		</div>
-		<div class="threecol">
-			
-			<ul>	
-				<li><a href="http://zh112.jumpingcrab.com/tv/" title="" target="_blank" class="style1">聚缘阁视频（推荐新片：雷人水浒）</a></li>
-			</ul>
-		</div>
+		
 		<div class="threecol">
 			<ul>	
 				<li><a href="http://gdsg.pwnz.org/mob/" title="" target="_blank" class="style1">觉梦网（手机版）</a></li>
