@@ -70,13 +70,7 @@
 			<ul>
 			</div>
 		
-		<div class="threecol">
-			
-			<ul>
-			
-			<li><a href="https://github.com/juyuange/jyg/wiki/jygproxy" title="" target="_blank" class="style1">聚缘阁github镜像（长期有效）</a></li>
-			</ul>
-		</div>
+	
 		<div class="threecol">
 			
 			
@@ -86,7 +80,7 @@
 				
 				
 			<ul>
-				<li><a href="https://github.com/ogate/ogate/blob/master/README.md "   title="" target="_blank" class="style1">门网（含大量精彩视频、长期有效）</a></li>
+				<li><a href="https://github.com/ogate/ogate/blob/master/README.md "   title="" target="_blank" class="style1">网门（含大量精彩视频、长期有效）</a></li>
 	       </ul>
 		</div>
 		<div class="threecol">
