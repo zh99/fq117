@@ -106,7 +106,7 @@
 				
 				
 			<ul>
-				<li><a href="https://github.com/zhen99425/free/blob/master/README.md"   title="" target="_blank" class="style1">聚缘阁（长期有效）</a></li>
+				<li><a href="https://github.com/juyuange/jyg/wiki/jygproxy"   title="" target="_blank" class="style1">聚缘阁（长期有效）</a></li>
 	       </ul>
 		</div>
 	</div>
