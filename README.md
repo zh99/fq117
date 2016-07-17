@@ -48,7 +48,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="http://zzz.healththe.xyz" target="_blank" >禁闻网1</a></li>
+				<li><a href="https://zzm.dnspage.xyz/ " target="_blank" >禁闻网1</a></li>
 			<ul>
 				
 			
@@ -57,7 +57,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="http://zzo.dnspage.xyz/" target="_blank" >禁闻网2</a></li>
+				<li><a href="https://zzu.healththe.xyz" target="_blank" >禁闻网2</a></li>
 			<ul>
 				
 
