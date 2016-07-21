@@ -33,10 +33,7 @@
 		</ul>
 			
 		</div>
-			<div class="threecol">
-		<ul>
-				<li><a href="https://jw2.mytg.eu.org/65/aa" title="" target="_blank" class="style1">动态网2</a></li>
-		</ul>
+		
 			
 		</div>
 		
