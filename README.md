@@ -36,36 +36,7 @@
 		
 			
 		</div>
-		
-		<div class="threecol">
-			<ul>	
-				<li><a href="http://gdsg.pwnz.org/mob/" title="" target="_blank" class="style1">觉梦网（手机版）</a></li>
-			</ul>
-			
-		</div>
-		<div class="threecol">
-			<ul>	
-				<li><a href="http://gdsg.pwnz.org" title="" target="_blank" class="style1">觉梦网（电脑版）</a></li>
-			</ul>
-			
-		<div class="threecol">
-			
-			<ul>
-				<li><a href="https://zzm.dnspage.xyz/ " target="_blank" >禁闻网1</a></li>
-			<ul>
-				
-			
-			
-		</div>
-		<div class="threecol">
-			
-			<ul>
-				<li><a href="https://zzu.healththe.xyz" target="_blank" >禁闻网2</a></li>
-			<ul>
-				
-
-			
-		</div>
+	
 		
 	
 		</div>
