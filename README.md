@@ -33,10 +33,21 @@
 		</ul>
 			
 		</div>
-		
+		<div class="threecol">
+			<ul>	
+				<li><a href="http://gdsg.pwnz.org" title="" target="_blank" class="style1">觉梦网（电脑版）</a></li>
+			</ul>
 			
 		</div>
 	
+			<div class="threecol">
+			
+				
+				
+			<ul>
+				<li><a href="https://github.com/znianw/truth/wiki"   title="" target="_blank" class="style1">真相名刊导读（长期有效）</a></li>
+	       </ul>
+		
 		
 	
 		</div>
@@ -64,13 +75,7 @@
 			
 			
 		</div>
-		<div class="threecol">
-			
-				
-				
-			<ul>
-				<li><a href="https://github.com/znianw/truth/wiki"   title="" target="_blank" class="style1">真相名刊导读（长期有效）</a></li>
-	       </ul>
+	
 		</div>
 		<div class="threecol">
 			
