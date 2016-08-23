@@ -22,7 +22,12 @@
 	</div>
 	
 	<div id="footer" class="row">
-	
+		<div class="threecol">
+			
+			<ul>
+				<li><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank" >广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
+			<ul>
+			</div>
 	<div class="threecol">
 			
 			
@@ -32,20 +37,9 @@
 				<li><a href="https://github.com/zhen99425/free/blob/master/README.md" title="" target="_blank" class="style1">动态网1</a></li>
 		</ul>
 			
+		
 		</div>
-		<div class="threecol">
-			<ul>	
-				<li><a href="http://dssd.pwnz.org/" title="" target="_blank" class="style1">觉梦网（电脑版）</a></li>
-			</ul>
-			
-		</div>
-		</div>
-		<div class="threecol">
-			
-			<ul>
-				<li><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank" >广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
-			<ul>
-			</div>
+	
 		
 			<div class="threecol">
 			
