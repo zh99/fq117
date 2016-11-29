@@ -69,7 +69,7 @@
 				
 				
 			<ul>
-				<li><a href=https://github.com/ogate/ogate/blob/master/README.md "   title="" target="_blank" class="style1">网门（含大量精彩视频、长期有效）</a></li>
+				<li><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank" >广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
 	       </ul>
 		</div>
 		<div class="threecol">
