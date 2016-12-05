@@ -39,7 +39,7 @@
 		</div>
 		<div class="threecol">
 		<ul>
-				<li><a href="https://github.com/zhen99425/free/blob/master/README.md" title="" target="_blank" class="style1">动态网1</a></li>
+				<li><a href="https://github.com/zhen99425/free/blob/master/README.md" title="" target="_blank" class="style1">动态网</a></li>
 		</ul>
 			
 		
