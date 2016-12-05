@@ -58,7 +58,7 @@
 				
 				
 			<ul>
-				<li><a href="https://github.com/znianw/truth/wiki"   title="" target="_blank" class="style1">真相名刊导读（长期有效）</a></li>
+				<li><a href="https://github.com/5fan/88/wiki"   title="" target="_blank" class="style1">真相名刊导读（长期有效）</a></li>
 	       </ul>
 		
 		
