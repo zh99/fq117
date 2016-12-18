@@ -25,14 +25,14 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="https://github.com/ogate/ogate/blob/master/README.md"   title="" target="_blank" class="style1">网门（含大量精彩视频、长期有效）</a></li>
+				<li><a href="https://github.com/ogate/ogate/blob/master/README.md?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">网门（含大量精彩视频、长期有效）</a></li>
 			<ul>
 			</div>
 	<div class="threecol">
 	<div class="threecol">
 			
 			<ul>
-				<li><a href="https://github.com/tv365/tv365/blob/master/README.md test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">分享小站</a></li>
+				<li><a href="https://github.com/tv365/tv365/blob/master/README.md?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">分享小站</a></li>
 			<ul>
 			</div>		
 			
