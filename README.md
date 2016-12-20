@@ -6,8 +6,8 @@
 	<div id="header" class="row">
 		<div class="sevencol">
 		 <h3>翻墙看世界</h3>
-		<li> <a class="style1">微信易封，长期使用，请用浏览器打开后，在浏览器收藏</a><li> 
-	        <li> <a class="style1">微信易封，长期使用，请用浏览器打开后，在浏览器收藏</a><li>
+		<a class="style1">微信易封，长期使用，请用浏览器打开后，在浏览器收藏</a>
+	        <a class="style1">微信易封，长期使用，请用浏览器打开后，在浏览器收藏</a>
 		</div>
 		<div class="fivecol last">
 			<p>
