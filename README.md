@@ -28,7 +28,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="https://github.com/ogate/ogate/blob/master/README.md?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">网门（含大量精彩视频、长期有效）</a></li>
+				<li><a href="https://github.com/ogate/ogate/blob/master/README.md?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">网门</a></li>
 			<ul>
 			</div>
 	<div class="threecol">
@@ -53,7 +53,7 @@
 				
 				
 			<ul>
-				<li><a href="https://github.com/juyuange/jyg/wiki/jygproxy?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">聚缘阁（长期有效）</a></li>
+				<li><a href="https://github.com/juyuange/jyg/wiki/jygproxy?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">聚缘阁</a></li>
 	       </ul>
 		</div>
 			<div class="threecol">
@@ -61,7 +61,7 @@
 				
 				
 			<ul>
-				<li><a href="https://github.com/5fan/88/wiki?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">真相名刊导读（长期有效）</a></li>
+				<li><a href="https://github.com/5fan/88/wiki?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">真相名刊导读</a></li>
 	       </ul>
 		
 		
@@ -77,7 +77,7 @@
 				
 				
 			<ul>
-				<li><a href="https://github.com/bannedbook/fanqiang/wiki?test=&from=message&isappinstalled=0" target="_blank" >广传真相平台(长期有效，含大量免费翻墙网址、工具)</a></li>
+				<li><a href="https://github.com/bannedbook/fanqiang/wiki?test=&from=message&isappinstalled=0" target="_blank" >广传真相平台</a></li>
 	       </ul>
 		</div>
 		<div class="threecol">
