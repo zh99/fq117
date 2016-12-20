@@ -7,6 +7,8 @@
 		<div class="sevencol">
 		 <h3>翻墙看世界</h3>
 		 <a  class="style1">微信如打不开链接，请点右上角3个点，用浏览器打开</a>
+		 
+		</div>
 		  <a  class="style1">微信易封，长期使用，请点右上角3个点，用浏览器打开后收藏</a>
 		</div>
 		<div class="fivecol last">
