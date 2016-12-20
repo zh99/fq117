@@ -5,7 +5,7 @@
 <div class="container">
 	<div id="header" class="row">
 		<div class="sevencol">
-		 <h3>翻墙看世界</h3>
+		<h3>翻墙看世界</h3>
 		<a class="style1">微信如打不开链接，请点屏幕右上角3个点，用浏览器打开</a>
 		</div>
 	        <a class="style1">微信易封，长期使用，请用浏览器打开后，在浏览器收藏</a>
