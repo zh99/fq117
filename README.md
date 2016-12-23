@@ -42,7 +42,7 @@
 		</div>
 		<div class="threecol">
 		<ul>
-				<li><a href="https://github.com/zhen99425/free/blob/master/README.md?test=&from=message&isappinstalled=0" title="" target="_blank" class="style1">动态网</a></li>
+				<li><a href="https://github.com/juyuange9/daili/wiki/jygproxy?test=&from=message&isappinstalled=0" title="" target="_blank" class="style1">动态网</a></li>
 		</ul>
 			
 		
