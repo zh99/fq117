@@ -28,7 +28,7 @@
 		<div class="threecol">
 			
 			<ul>
-				<li><a href="https://github.com/ogate/ogate/blob/master/README.md?ogHint"   title="" target="_blank" class="style1">网门</a></li>
+				<li><a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a></li>
 			<ul>
 			</div>
 	<div class="threecol">
