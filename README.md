@@ -4,14 +4,5 @@
 微信易封，长期使用，请用浏览器打开后，收藏网
 	
 </div>
-			
-	
-	</div>
-</div>
-
-<div id="footer" class="row">
-	<div class="threecol">
-		
-	
-			<a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a>
+<a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a>
 
