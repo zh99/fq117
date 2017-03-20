@@ -12,7 +12,7 @@
 		</div>
 		<p><p> 　
 <a href="https://github.com/ogate/ogate/blob/master/README.md" target="_blank">网门</a>
-</div></p>
+</div>
 <a href="https://github.com/hao369/a/wiki/jyg" target="_blank">动态网1</a> 　
 </div></p>
 <a href="https://github.com/zhen99425/free/blob/master/README.md" target="_blank">动态网2</a></p>
