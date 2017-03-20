@@ -5,4 +5,5 @@
 	
 </div>
 <a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a>
+<a href="https://github.com/hao369/a/wiki/jyg" title="" target="_blank" class="style1">动态网1</a>
 
