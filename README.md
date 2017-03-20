@@ -10,7 +10,7 @@
 		</div>
 <a class="style1">微信易封，长期使用，请用浏览器打开后，收藏网址</a>
 		</div>
-		<p><p> 　
+		<a </a>　
 <a href="https://github.com/ogate/ogate/blob/master/README.md" target="_blank">网门</a>
 </div>
 <a href="https://github.com/hao369/a/wiki/jyg" target="_blank">动态网1</a> 　
