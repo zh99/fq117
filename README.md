@@ -4,6 +4,6 @@
 微信易封，长期使用，请用浏览器打开后，收藏网
 	
 </div>
-<a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a>
-<a href="https://github.com/hao369/a/wiki/jyg" title="" target="_blank" class="style1">动态网1</a>
+<li><a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a></li>
+<li><a  href="https://github.com/hao369/a/wiki/jyg" title="" target="_blank" class="style1">动态网1</a></li>
 
