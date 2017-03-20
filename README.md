@@ -42,7 +42,7 @@
 		</div>
 		<div class="threecol">
 		<ul>
-				<li><a href="https://github.com/hao369/a/wiki/jyg" title="" target="_blank" class="style1">动态网1</a></li>
+				<li><a href="https://github.com/hao369/a/wiki/jyg" title="" target="_blank" class="style1">动态网</a></li>
 		</ul>
 			
 		
