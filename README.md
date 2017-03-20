@@ -30,16 +30,16 @@
 			<ul>
 				<li><a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a></li>
 			<ul>
-			</div>
+			
 	<div class="threecol">
 	<div class="threecol">
 			
 			<ul>
 				<li><a href="https://github.com/tv365/tv365/blob/master/README.md?test=&from=message&isappinstalled=0"   title="" target="_blank" class="style1">分享小站</a></li>
 			<ul>
-			</div>		
 			
-		</div>
+			
+
 		<div class="threecol">
 		<ul>
 				<li><a href="https://github.com/hao369/a/wiki/jyg" title="" target="_blank" class="style1">动态网</a></li>
@@ -84,19 +84,17 @@
 			
 		<ul>
 				<li><a href="https://github.com/osurf/osurf/blob/master/README.md?test=&from=message&isappinstalled=0" target="_blank" >翻樯部落</a></li>	
-		</div>
 	
-		</div>
+		
 		<div class="threecol">			
 			
 		</div>
 	
-	</div>
+	
 
 		
-		</div>
 	
-</div>
+
 
 </body>
 </html>
