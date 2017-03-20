@@ -16,6 +16,6 @@
 <div id="footer" class="row">
 	<div class="threecol">
 		
-		<ul>
-			<a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a><
-		<ul>
+	
+			<a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb"   title="" target="_blank" class="style1">网门</a>
+
