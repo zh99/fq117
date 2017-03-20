@@ -9,4 +9,5 @@
 <li><a  href="https://github.com/zhen99425/free/blob/master/README.md" title="" target="_blank" class="style1">动态网2</a></li>
 <li><a  href="https://github.com/tv365/tv365/blob/master/README.md" title="" target="_blank" class="style1">分享小站</a></li>
 <li><a  href="https://github.com/5fan/88/wiki" title="" target="_blank" class="style1">真相名刊导读</a></li>
-<li><a  href="https://github.com/bannedbook/fanqiang/wiki?test=&from=message&isappinstalled=0” title="" target="_blank" class="style1">广传真相平台</a></li>
+<li><a  href="https://github.com/bannedbook/fanqiang/wiki?test=&from=message&isappinstalled=0” title="" target="_blank” class="style1">真相名刊导读</a></li>
+<li><a  href="https://github.com/osurf/osurf/blob/master/README.md?test=&from=message&isappinstalled=0" target="_blank” title="" target="_blank” class="style1">翻樯部落</a></li>
