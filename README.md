@@ -11,6 +11,9 @@
 <a class="style1">微信易封，长期使用，请用浏览器打开后，收藏网址</a>
 		</div>
 		<p>◎   • 视 频： 
-<a href="http://1314.dynu.com/tv/" target="_blank">网址一</a> 　 
-<a href="http://1314.dynu.com/9018.html" target="_blank">网址二</a> 　 
+<a href="http://1314.dynu.com/tv/" target="_blank">网址一</a>
+</div>
+<a href="http://1314.dynu.com/9018.html" target="_blank">网址二</a> 　
+</div>
 <a href="http://1314.dynu.com/9449.html" target="_blank">网址三</a></p>
+
