@@ -29,14 +29,23 @@
 <div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件 </div>
 <div><BR></div>
 <UL>
-<li><font class="ws11"><a href="https://raw.githubusercontent.com/jjliu102/m/m/um.apk?l1zruyie3x98x86m4as" title="" target="_blank">无界一点通地址1</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/um.apk?23455634" title="" target="_blank">地址2</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/zh99-patch-1/um43.apk" title="" target="_blank">无界一点通地址1</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/um.apk?23455634" title="" target="_blank">地址2</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></li>
 </UL>
-<div><font class="ws11"><a href="https://raw.githubusercontent.com/jjliu102/m/m/um.apk?l1zruyie3x98x86m4as" title=""><BR></a></font></div>
+<div><font class="ws11"><a href="https://raw.githubusercontent.com/jjliu102/m/m/um.apk" title=""><BR></a></font></div>
 <UL>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" title="" target="_blank">网门地址1</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/oGate.apk" title="" target="_blank">地址2</a></font></li>
 </UL>
 <div><font class="ws11"><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" title=""><BR></a></font></div>
+<UL>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk" title="" target="_blank">神州正道（看视频很快）</a></font></li>
+</UL>
+<div><font class="ws11"><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk" title=""><BR></a></font></div>
+<UL>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iNTD_TV.apk" title="" target="_blank">新唐人电视台</a></font></li>
+</UL>
+<div><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iNTD_TV.apk" title=""><BR></a></font></div>
 
+<div id="marquee1" style="position:absolute; overflow:hidden; left:13px; top:82px; width:390px; height:26px; z-index:1">
 
 
 <div id="marquee1" style="position:absolute; overflow:hidden; left:13px; top:60px; width:390px; height:26px; z-index:1">
