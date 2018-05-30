@@ -1,9 +1,3 @@
-{
- margin-top: 0px;
- margin-bottom: 0px;
-}
-</style>
-<meta name="viewport" content="width=device-width;intinal-scale=1.0">
 </head>
 <body>
 <div id="text1" style="position:absolute; overflow:hidden; left:15px; top:20px; width:419px; height:540px; z-index:0">
