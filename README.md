@@ -7,8 +7,7 @@
 <div>若打不开链接,可暂时关闭360 </div>
 <div><BR></div>
 <div><BR></div>
- <UL>
-<li><font class="ws11"<UL>
+
 <li><font class="ws11"><a <a href="https://github.com/szzd1/1/blob/master/README.md" title="" target="_blank">突破封锁自由上网</a></font></li>
 </UL></a></font></li>
 </UL> 
