@@ -42,7 +42,7 @@
 <div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件 </div>
 <div><BR></div>
 <UL>
-<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/zh99-patch-1/um43.apk" title="" target="_blank">无界一点通地址1</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/um.apk?23455634" title="" target="_blank">地址2</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/master/um45.apk" title="" target="_blank">无界一点通地址1</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/um.apk?23455634" title="" target="_blank">地址2</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></li>
 </UL>
 <div><font class="ws11"><a href="https://raw.githubusercontent.com/jjliu102/m/m/um.apk" title=""><BR></a></font></div>
 <UL>
