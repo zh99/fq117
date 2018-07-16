@@ -8,8 +8,6 @@
 
 <div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器</div>
 <div><BR></div>
-</UL>
-<div><font class="ws11"><a href="https://github.com/szzd1/1/blob/master/README.md" title=""><BR></a></font></div>
 <UL>
 <li><font class="ws11"><a href="https://github.com/ogate2/ogate2/blob/master/README.md" title="" target="_blank">网门(动态新闻、视频、翻墙工具)</a></font></li>
 </UL>
