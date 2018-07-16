@@ -11,8 +11,6 @@
 <UL>
 <li><font class="ws11"><a href="https://github.com/ogate2/ogate2/blob/master/README.md" title="" target="_blank">网门(动态新闻、视频、翻墙工具)</a></font></li>
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
-</UL>
-<div><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title=""><BR></a></font></div>
 <UL>
 <li><font class="ws11"><a href="https://github.com/bannedbook/fanqiang/wiki" title="" target="_blank">广传真相平台(含大量翻墙工具)</a></font></li>
 </UL>
