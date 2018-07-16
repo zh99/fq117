@@ -25,7 +25,6 @@
 <UL>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/master/um45.apk" title="" target="_blank">无界一点通地址1</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/um.apk?23455634" title="" target="_blank">地址2</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" title="" target="_blank">网门地址1</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/oGate.apk" title="" target="_blank">地址2</a></font></li>
-<div><font class="ws11"><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" title=""><BR></a></font></div>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk" title="" target="_blank">神州正道（看视频很快）</a></font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iNTD_TV.apk" title="" target="_blank">新唐人电视台</a></font></li>
 </UL>
