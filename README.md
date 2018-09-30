@@ -9,7 +9,7 @@
 <div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器</div>
 <div><BR></div>
 <UL>
-<li><font class="ws11"><a href="https://github.com/zx166/166" title="" target="_blank">真相集锦(特别推荐)工具)</a></font></li  
+<li><font class="ws11"><a href="https://github.com/zx166/166" title="" target="_blank">真相集锦(特别推荐)</a></font></li  
 <UL>
 <li><font class="ws11"><a href="https://github.com/ogate2/ogate2/blob/master/README.md" title="" target="_blank">网门(动态新闻、视频、翻墙工具)</a></font></li>
 <li><font class="ws11"><a href="https://github.com/szzd1/2" title="" target="_blank">翻墙部落</a></font></li>
