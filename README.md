@@ -10,42 +10,22 @@
 
 <UL>
 <li><font class="ws11"><a href="https://1mwr64k5bi.execute-api.ap-southeast-1.amazonaws.com/u7/?id=2" title="" target="_blank">动态网(如果打不开，请多点几次!) </a></font></li>
-</UL>
-<div><font class="ws11"><a href="http://w999.p43.paperny.ru/" title=""><BR></a></font></div>
-<UL>
+</UL
 <li><font class="ws11"><a href=" https://github.com/gfw-breaker/banned-news/blob/master/README.md" title="" target="_blank">禁闻聚合(直接看最新时事，长期有效！) </a></font></li>
-</UL>
-<div><font class="ws11"><a href=" https://github.com/gfw-breaker/banned-news/blob/master/README.md" title=""><BR></a></font></div>
 <UL>
 <li><font class="ws11"><a href="https://github.com/yuange99/4/wiki" title="" target="_blank">聚缘阁(含直连网址，特别推荐) </a></font></li>
 </UL>
-<div><font class="ws11"><a href="https://github.com/yuange99/4/wiki" title=""><BR></a></font></div>
-<UL>
 <li><font class="ws11"><a href="https://github.com/ogate2/ogate2/blob/master/README.md" title="" target="_blank">网门(海量资源)</a></font></li>
-</UL>
-<div><font class="ws11"><a href="https://github.com/ogate2/ogate2/blob/master/README.md" title=""><BR></a></font></div>
 <UL>
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
-</UL>
-<div><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title=""><BR></a></font></div>
 <UL>
 <li><font class="ws11"><a href="https://github.com/szzd1/2" title="" target="_blank">广传真相（适用于电脑）</a></font></li>
 </UL>
-<div><font class="ws11"><a href="https://raw.githubusercontent.com/xifulinmen/mingming/master/tool.zip" title=""><BR></a></font></div>
 
 <UL>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/master/tool.zip" title="" target="_blank">电脑、手机常用翻墙工具打包下载</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="ws11"><a href="https://raw.githubusercontent.com/xifulinmen/mingming/master/tool.zip" title="" target="_blank">地址2</a></font><font color="#000000" class="ws11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></li>
-</UL>
-<div><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/master/tool.zip" title=""><BR></a></font></div>
 <UL>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iPPOTV.rar" title="" target="_blank">爱博电视电脑版（含新唐人电视台）</a></font></li>
-</UL>
-<div><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iPPOTV.rar" title=""><BR></a></font></div>
-
-<UL>
-<li><font class="ws11"><a href="forever.html" title="forver" target="_blank">保持永久不被封锁的方法</a></font></li>
-</UL>
-<div><font class="ws11"><a href="forever.html" title=""><BR></a></font></div>
 
 <div><font class="ws11"><B>安桌手机翻墙工具下载: </B></font></div>
 
