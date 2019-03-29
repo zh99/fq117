@@ -3,6 +3,10 @@
 <UL>
 <li><font class="ws11"><a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font></li  
 <UL>
+<li><font class="ws11"><a href="<li><font class="ws11"><a href="<li><font class="ws11"><a href=" http://zh8899.1apps.com/" title="" target="_blank">动态网</a></font></li  
+<UL>" title="" target="_blank">禁闻聚合</a></font></li  
+<UL>" title="" target="_blank">动态网</a></font></li  
+<UL>  
 <li><font class="ws11"><a href="https://github.com/ogate2/ogate2/blob/master/README.md" title="" target="_blank">网门(动态新闻、视频、翻墙工具)</a></font></li>
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 <li><font class="ws11"><a href="https://github.com/Synchunk/www/blob/master/README.md#2" title="" target="_blank">神州正道(特别推荐！)</a></font></li>
