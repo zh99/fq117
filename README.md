@@ -1,4 +1,4 @@
-<div><font class="ws30"><B>翻墙看世界2019 </B></font></div>
+# 欢迎来到翻墙部落！
 <div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器</div>
 <div><BR></div>
 <UL>
