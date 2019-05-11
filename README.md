@@ -4,9 +4,21 @@
 <UL>
 <li><font class="ws11"><a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font></li  
 <UL>
-<li><font class="ws11"><a href="http://zh9.epizy.com/" title="" target="_blank">动态网</a></font></li  
+<li><font class="ws11"><a href="http://zh9.epizy.com/" title="" target="_blank">禁闻精选（含动态网）</a></font></li  
 
 <UL>  
+<UL>
+<li><font class="ws11"><a href="http://4455.gq/" title="" target="_blank">动态网1</a></font></li  
+
+<UL>   
+<UL>
+<li><font class="ws11"><a href="https://x.co/3999" title="" target="_blank">动态网2</a></font></li  
+
+<UL>  
+<UL>
+<li><font class="ws11"><a href="http://t.cn/Efx2adY" title="" target="_blank">动态网3</a></font></li  
+
+<UL>    
 <li><font class="ws11"><a href="https://github.com/oGate2/oGate/blob/master/README.md" title="" target="_blank">网门(海量资源！)</a></font></li>
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 <li><font class="ws11"><a href="https://github.com/Synchunk/www/blob/master/README.md#2" title="" target="_blank">神州正道</a></font></li>
