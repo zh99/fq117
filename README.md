@@ -21,7 +21,7 @@
 </UL>
 <p><a </p>
 </UL>
-<div><font class="ws11"><B>安桌手机翻墙工具下载: </B></font></div>
+#<div><font class="ws11"><B>安桌手机翻墙工具下载: </B></font></div>
 <div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件 </div>
 <div><BR></div>
 <UL>
