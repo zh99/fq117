@@ -15,7 +15,7 @@
 <UL>    
 <li><font class="ws11"><a href="https://github.com/oGate2/oGate/blob/master/README.md" title="" target="_blank">网门(海量资源！)</a></font></li>
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
-<h2><p><strong>安桌手机翻墙工具下载:</strong></p></h2>
+<h2><p><strong>电脑翻墙工具下载:</strong></p></h2>
 <div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件 </div>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/xifulinmen/mingming/master/tool.zip" title="" target="_blank">常用电脑翻墙工具打包下载</a></font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iPPOTV.rar" title="" target="_blank">爱博电视电脑版（含新唐人电视台）</a></font></li>
