@@ -30,7 +30,7 @@
 <UL>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/master/um.apk?raw=true" title="" target="_blank">无界一点通4.6</a></font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.ap?raw=true" title="" target="_blank">网门</a></font></li>
-<li><font class="ws11"><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?raw=true" title="" target="_blank">神州正道</a></font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?raw=true" title="" target="_blank">神州正道（推荐！非常好用！）</a></font></li>
   <li><font class="ws11"><a href="https://raw.githubusercontent.com/dtw9/jyg/master/jyg.apk?raw=true" title="" target="_blank">聚源阁</a></font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iNTD_TV.apk?raw=true" title="" target="_blank">新唐人电视台</a></font></li>
 </UL>
