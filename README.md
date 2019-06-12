@@ -4,8 +4,7 @@
 <li><font class="ws11"><a href="https://github.com/Synchunk/www/blob/master/README.md#2" title="" target="_blank">神州正道（直接看新闻，翻墙工具多，更新及时！）</a></font></li>
   
 <li><font class="ws11"><a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font></li  
-<UL>
-<li><font class="ws11"><a href="http://zh9.epizy.com/" title="" target="_blank">禁闻精选（含动态网）</a></font></li  
+
 <UL>  
 <li><font class="ws11"><a href="http://t.cn/Efx2adY" title="" target="_blank">动态网1</a></font></li  
 <UL>   
