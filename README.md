@@ -35,5 +35,5 @@
   <li><font class="ws11"><a href="https://raw.githubusercontent.com/dtw9/jyg/master/jyg.apk?raw=true" title="" target="_blank">聚源阁</a></font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iNTD_TV.apk?raw=true" title="" target="_blank">新唐人电视台</a></font></li>
 </UL>
-<h2><p><strong>网络机顶盒软件下载:</strong></p></h2>
-  
+<h2><p><strong>电视机顶盒软件下载:</strong></p></h2>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk?raw=true" title="" target="_blank">神州正道</a></font></li>  
