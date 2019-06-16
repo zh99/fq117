@@ -17,7 +17,8 @@
 <h2><p><strong>电脑翻墙工具下载:</strong></p></h2>
 <div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件 </div>
 <div><BR></div>
-<li><font class="ws11"><a href="https://raw.githubusercontent.com/xifulinmen/mingming/master/tool.zip" title="" target="_blank">常用电脑翻墙工具打包下载</a></font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/xifulinmen/mingming/master/tool.zip" title="" target="_blank">自由门7.68 （2019.06.16更新）</a></font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/xifulinmen/mingming/master/tool.zip" title="" target="_blank">自由门7.68 （2019.06.16更新）</a></font></li>  
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iPPOTV.rar" title="" target="_blank">爱博电视电脑版（含新唐人电视台）</a></font></li>
 
 </UL>
