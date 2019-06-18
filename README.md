@@ -16,7 +16,7 @@
 <li><font class="ws11"><a href="https://github.com/oGate2/oGate/blob/master/README.md" title="" target="_blank">网门(海量资源！)</a></font></li>
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 <h2><p><strong>电脑翻墙工具下载:</strong></p></h2>
-<div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件 </div>
+<div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件。 </div>
 <div><BR></div>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip" title="" target="_blank">自由门7.68 （2019.06.16更新）</a></font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip" title="" target="_blank">无界</a></font></li>  
