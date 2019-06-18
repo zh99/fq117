@@ -1,6 +1,6 @@
 # 翻墙看世界2019！
 <div>本站长期可用短网址:https://x.co/zhen 欢迎大家推广！</div>
-<div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器</div>
+<div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器。</div>
 <div><BR></div>
 <li><font class="ws11"><a href="https://github.com/Synchunk/www/blob/master/README.md#2" title="" target="_blank">神州正道（直接看新闻，翻墙工具多，更新及时！）</a></font></li>
   
@@ -27,7 +27,7 @@
 <p><a </p>
 </UL>
 <h2><p><strong>安桌手机翻墙工具下载:</strong></p></h2>
-<div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件 </div>
+<div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件。 </div>
 <div><BR></div>
 <UL>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang/master/um.apk?raw=true" title="" target="_blank">无界一点通4.6</a></font></li>
