@@ -11,10 +11,9 @@
 
 <UL>    
 <li><font class="ws11"><a href="http://t.cn/Efx2adY" title="" target="_blank">动态网1</a></font></li  
+
 <UL>   
-<li><font class="ws11"><a href="https://x.co/3999" title="" target="_blank">动态网2</a></font></li  
-<UL>   
-<li><font class="ws11"><a href="http://t.cn/Ei4PkYE" title="" target="_blank">动态网3</a></font></li 
+<li><font class="ws11"><a href="http://t.cn/Ei4PkYE" title="" target="_blank">动态网2</a></font></li 
 <UL>    
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 <h2><p><strong>电脑翻墙工具下载:</strong></p></h2>
