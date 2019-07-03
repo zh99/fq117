@@ -7,6 +7,9 @@
 <li><font class="ws11"><a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font></li  
 
 <UL>  
+<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁代理</a></font></li  
+
+<UL>    
 <li><font class="ws11"><a href="http://t.cn/Efx2adY" title="" target="_blank">动态网1</a></font></li  
 <UL>   
 <li><font class="ws11"><a href="https://x.co/3999" title="" target="_blank">动态网2</a></font></li  
