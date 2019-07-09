@@ -10,14 +10,13 @@
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁代理</a></font></li  
 
 <UL>    
-<li><font class="ws11"><a href="http://t.cn/Efx2adY" title="" target="_blank">动态网1</a></font></li  
-
+<li><font class="ws11"><a href="http://t.cn/Efx2adY" title="" target="_blank">动态网1</a></font></li 
 <UL>   
 <li><font class="ws11"><a href="http://t.cn/Ei4PkYE" title="" target="_blank">动态网2</a></font></li 
 <UL>    
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 <UL>
-<li><font class="ws11"><a href="https://github.com/cbzs/9p/blob/master/README.md" title="" target="_blank">四本禁书</a></font></li>  
+<li><font class="ws11"><a href="http://t.cn/Ei4PkYE" title="" target="_blank">动态网2</a></font></li  
 <h2><p><strong>电脑翻墙工具下载:</strong></p></h2>
 <div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件。 </div>
 <div><BR></div>
