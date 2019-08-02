@@ -10,10 +10,6 @@
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁代理</a></font></li  
 
 <UL>    
-<li><font class="ws11"><a href="http://t.cn/Efx2adY" title="" target="_blank">动态网1</a></font></li 
-<UL>   
-<li><font class="ws11"><a href="http://t.cn/Ei4PkYE" title="" target="_blank">动态网2</a></font></li 
-<UL>    
 <li><font class="ws11"><a href="https://github.com/cbzs/9p/blob/master/README.md#99" title="" target="_blank">四本禁书</a></font></li 
 <UL>     
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
