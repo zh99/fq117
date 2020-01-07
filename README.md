@@ -15,7 +15,7 @@
 <h2><p><strong>电脑翻墙工具下载:</strong></p></h2>
 <div>绝无病毒！若杀毒软件误报,不要管它,或关闭杀毒软件。 </div>
 <div><BR></div>
-<li><font class="ws11"><a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip" title="" target="_blank">自由门7.69 </a></font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip" title="" target="_blank">自由门7.70</a></font></li>
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip" title="" target="_blank">无界</a></font></li>  
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/szzd1/szzd1.github.io/master/szzd/szzdogate.rar" title="" target="_blank">神州正道网页版</a></font></li>   
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/osurf/osurf/master/iPPOTV.rar" title="" target="_blank">爱博电视电脑版（含新唐人电视台）</a></font></li>
