@@ -12,4 +12,7 @@
 <UL>     
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 
+<h2><p><strong>《明白》特刊:</strong></p></h2>
+  
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_read.pdf" title="" target="_blank">祝您平安（电脑版）</a></font></li>
 
