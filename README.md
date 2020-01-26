@@ -16,6 +16,6 @@
 <div>告诉您至简、至易的平安秘诀！</div>
 <div><BR></div>
   
-<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_read.pdf" title="" target="_blank">电脑版</a></font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_read.pdf?raw=true" title="" target="_blank">电脑版</a></font></li>
 
-<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_sj.pdf" title="" target="_blank">手机版</a></font></li>
+<li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_sj.pdf?raw=true" title="" target="_blank">手机版</a></font></li>
