@@ -7,7 +7,7 @@
 <li><font class="ws11"><a href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font></li  
 
 <UL>  
-<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁代理（含武汉视频集锦）</a></font></li  
+<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁（含武汉视频集锦）</a></font></li  
 
 <UL>     
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
