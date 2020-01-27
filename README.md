@@ -13,7 +13,8 @@
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 
 <h2><p><strong>祝您平安（特刊回顾）:</strong></p></h2>
-<div>至简、至易的平安秘诀！</div>
+<div>平安走过大劫，他们为何如此幸运？</div>
+<div>这里告诉您至简、至易的平安秘诀！</div>
 <div><BR></div>
   
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_read.pdf?raw=true" title="" target="_blank">电脑版</a></font></li>
