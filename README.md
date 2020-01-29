@@ -5,7 +5,7 @@
  <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁（含武汉视频集锦）</a></font></li  
 <UL>  
 <li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">神州正道(含大量软件)</a></font></li>
-  
+ <div>电脑版软件特别推荐“爱博电视”，新闻类节目非常棒。</div> 
 <li><font class="ws11"><a href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font></li  
 
 <UL>  
