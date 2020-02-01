@@ -7,7 +7,7 @@
  <div><BR></div>
  <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁（含武汉视频集锦）</a></font></li  
 <UL>  
-<li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">神州正道(含大量软件)</a></font></li>
+<li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">神州正道(含大量工具)</a></font></li>
 <li><font class="ws11"><a href="https://github.com/gfw-breaker/banned-news1/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font></li  
 
 <UL>  
