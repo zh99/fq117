@@ -25,7 +25,3 @@
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_read.pdf?raw=true" title="" target="_blank">电脑版</a></font></li>
 
 <li><font class="ws11"><a href="https://raw.githubusercontent.com/zh99/fanqiang8/master/zhunipingan_sj.pdf?raw=true" title="" target="_blank">手机版</a></font></li>
-<img src="https://github.com/zh99/fq8/blob/master/1.gif"><br>
-<img src="https://github.com/zh99/fq8/blob/master/2.gif"><br>
-<img src="https://github.com/zh99/fq8/blob/master/3.gif"><br>
-<img src="https://github.com/zh99/fq8/blob/master/4.gif"><br>
