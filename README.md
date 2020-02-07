@@ -7,13 +7,13 @@
  <div><BR></div>
  <li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">神州正道(含多种工具)</a></font></li>
 
- <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁（含武汉视频集锦）</a></font></li  
+ <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁（不用工具直接翻）</a></font></li  
 <UL>  
 
 
 
     
-<li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落（为自己做一个选择）</a></font></li>
+<li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
 <div><BR></div>
  <div>电脑版软件特别推荐“爱博电视”，全天直播。</div> 
  <div>新闻类节目时间，早上：04:30、06:00、08:15、10:45，下午：13:00、19:00、21:30、22:30</div> 
