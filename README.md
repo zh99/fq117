@@ -2,7 +2,7 @@
 <div>本站长期可用短网址:https://git.io/zhen9 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器。</div>
 <div><BR></div>
- <li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">武汉疫情的真实情况</a></font></li>
+ <li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
   <li><font class="ws11"><a href="https://github.com/zh99/fl9/wiki/%E5%A4%A7%E7%98%9F%E7%96%AB%E4%B8%AD%E7%9A%84%E5%8D%83%E9%87%91%E8%89%AF%E6%96%B9" title="" target="_blank">大瘟疫中的千金良方</a></font></li>
  <div><BR></div>
  <li><font class="ws11"><a href="https://github.com/blshb2317/www/blob/master/README.md" title="" target="_blank">神州正道（含多种逾墙工具）</a></font></li  
