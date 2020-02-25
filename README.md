@@ -8,7 +8,7 @@
  <li><font class="ws11"><a href="https://github.com/blshb2317/www/blob/master/README.md" title="" target="_blank">神州正道（含多种逾墙工具）</a></font></li  
 <UL> 
 
- <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁（不用工具直接翻）</a></font></li  
+ <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁（不用工具直接看）</a></font></li  
 <UL>  
  <li><font class="ws11"><a href="https://github.com/odoor2/oo/blob/master/README.md" title="" target="_blank">网门</a></font></li  
 <UL>  
