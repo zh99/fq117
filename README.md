@@ -4,7 +4,7 @@
 <div><BR></div>
  <li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
  <li><font class="ws11"><a   <li><font class="ws11"><a href=https://d2metrfs6xett.cloudfront.net/?key=683364216463&from=ogHomeo title="" target="_blank">电影《危难时刻》</a></font></li>
-  <details><p>
+  <p>
 剧情是根据明慧网刊登的武汉一家市民感染武汉肺炎神奇治愈的真实事件改编。片长35分14秒，这部影片很感人，尤其是到了影片的最后部份，那些出乎意料的情节催人泪下。如果这个网址打不开，请使用网门观看：进入网门主页后，点“临时网址”，打开临时网址后，再点“影片”，或下载网门工具观看（推荐）。</p>
   
  <div><BR></div>
