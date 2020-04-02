@@ -21,7 +21,8 @@
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
  <UL> 
  <li><font class="ws11"><a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
->
+<li><font class="ws11"><a href="https://github.com/osurf/zdy/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
+<div><BR></div>
 <div><BR></div>
  <div>电脑版软件特别推荐<a href="https://cdn.jsdelivr.net/gh/dmoadz208/www/szzd/iPPOTV.zip?dfdmoadz208h" title="" target="_blank">爱博电视</a></font></li>，全天直播。开始找服务器时可能较慢，连上后，播放稳定、流畅。</div> 
  <div>新闻类节目时间，早上：04:30、06:00、08:15、10:45，下午：13:00、19:00、21:30、22:30</div> 
