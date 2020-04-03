@@ -3,7 +3,9 @@
 <div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器。</div>
 <div><BR></div>
 
-<li><font class="ws11"><a href=https://x.co/pcp title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
+ <li><font class="ws11"><a href=https://x.co/pcp title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
+
+  <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
   <li><font class="ws11"><a href=https://raw.githack.com/otiny/up/master/show002.htm title="" target="_blank">大疫下自救有灵丹，请看电影《危难时刻》</a></font></li>
 <div>观看方法：进入网页后，点“临时网址”，再点“影片”，或下载<a href="https://github.com/kcjxub2852/www/blob/master/README.md?d#1" title="" target="_blank">网门工具</a></font></li>播放。</div>
  
@@ -15,7 +17,6 @@
 
  
 
-
  <li><font class="ws11"><a href="https://raw.githack.com/otiny/up/master/show002.htm" title="" target="_blank">网门</a>（进入后点“临时网址”）</font></li  
  <UL> 
  <li><font class="ws11"><a href="https://cdn.jsdelivr.net/gh/kcjxub2852/www/szzd/oGate.apk" title="" target="_blank">网门安卓工具下载</a></font></li  
@@ -24,7 +25,7 @@
  
 <div>网门含时事新闻，大量的电影，视频资源。用工具看，更快、更稳定！</font></li></div> 
 
-<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
+<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁禁网代理</a></font></li   
  
 <div>部分链接个别时间可能打不开，但网主维护速度很快，您可以换个时间再试试。</font></li></div> 
 
