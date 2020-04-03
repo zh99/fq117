@@ -15,11 +15,19 @@
 
  
 
+
  <li><font class="ws11"><a href="https://raw.githack.com/otiny/up/master/show002.htm" title="" target="_blank">网门</a>（进入后点“临时网址”）</font></li  
-<div>网门含时事新闻，大量的电影，视频资源。用工具看，更快、更稳定！<a href="https://cdn.jsdelivr.net/gh/kcjxub2852/www/szzd/oGate.apk" title="" target="_blank">安卓手机工具</a><a href="https://cdn.jsdelivr.net/gh/kcjxub2852/www/szzd/oGate.zip" title="" target="_blank">      电脑工具</font></li></div> 
+ <UL> 
+ <li><font class="ws11"><a href="https://cdn.jsdelivr.net/gh/kcjxub2852/www/szzd/oGate.apk" title="" target="_blank">网门安卓工具下载</a></font></li  
+<UL> 
+ <li><font class="ws11"><a href="https://cdn.jsdelivr.net/gh/kcjxub2852/www/szzd/oGate.zip" title="" target="_blank">网门电脑工具下载</a></font></li  
+ 
+<div>网门含时事新闻，大量的电影，视频资源。用工具看，更快、更稳定！</font></li></div> 
 
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
- <UL> 
+ 
+<div>部分链接个别时间可能打不开，但网主维护速度很快，您可以换个时间再试试。</font></li></div> 
+
  <li><font class="ws11"><a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
   <UL>   
 <li><font class="ws11"><a href="https://github.com/osurf/zdy/blob/master/README.md" title="" target="_blank">翻墙部落</a></font></li>
