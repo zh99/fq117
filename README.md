@@ -6,7 +6,7 @@
  <li><font class="ws11"><a href=https://x.co/pcp title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
 
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
-  <li><font class="ws11"><a href=https://raw.githack.com/otiny/up/master/show002.htm title="" target="_blank">大疫下自救有灵丹，请看电影《危难时刻》</a></font></li>
+  <li><font class="ws11"><a href=https://rawcdn.githack.com/tlmwc248/oo/master/wm.html?from=nayunhai_852 title="" target="_blank">大疫下自救有灵丹，请看电影《危难时刻》</a></font></li>
 <div>观看方法：进入网页后，点“临时网址”，再点“影片”，或下载<a href="https://github.com/kcjxub2852/www/blob/master/README.md?d#1" title="" target="_blank">网门工具</a></font></li>播放。</div>
  
   <div>
@@ -17,7 +17,7 @@
 
  
 
- <li><font class="ws11"><a href="https://raw.githack.com/otiny/up/master/show002.htm" title="" target="_blank">网门</a>（进入后点“临时网址”）</font></li  
+ <li><font class="ws11"><a href="https://rawcdn.githack.com/tlmwc248/oo/master/wm.html?from=nayunhai_852" title="" target="_blank">网门</a>（进入后点“临时网址”）</font></li  
  <UL> 
  <li><font class="ws11"><a href="https://cdn.jsdelivr.net/gh/kcjxub2852/www/szzd/oGate.apk" title="" target="_blank">网门安卓工具下载</a></font></li  
 <UL> 
