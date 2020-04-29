@@ -1,6 +1,6 @@
 # 翻墙看世界
 <div>本站长期可用短网址:https://git.io/zhen9 欢迎大家推广。</div>
-<div>国产浏览器 ,可能打不开链接,推荐使用Chrom、火狐浏览器。</div>
+<div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。。</div>
 <div><BR></div>
 
  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/www/blob/master/README.md" title="" target="_blank">武汉肺炎真实情况</a></font></li  
