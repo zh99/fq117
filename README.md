@@ -21,7 +21,8 @@
 <li><font class="ws11"><a href="https://github.com/osurf/1zdy/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li>
   
 ### 推荐文章：
- <li><font class="ws11"><a href=https://zh9988.wordpress.com/%e5%86%8d%e8%ae%ba%ef%bc%9a%e6%ad%a6%e6%b1%89%e8%82%ba%e7%82%8e%e4%bc%9a%e8%bf%87%e5%8e%bb%ef%bc%8c%e4%bd%86%e6%9b%b4%e5%a4%a7%e6%9b%b4%e7%8c%9b%e7%83%88%e7%9a%84%e7%98%9f%e7%96%ab%e4%bc%9a%e5%86%8d target="_blank">高人预警：武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </font></li>
+### 推荐文章：
+ <li><font class="ws11"><a href=https://zh9988.wordpress.com/武汉瘟疫治寻根-历史天象醒今人 target="_blank">高人预警：更大、更猛烈的疫情还会再来</a> </font></li>
 
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E4%B8%8D%E6%98%AF%E8%8B%B1%E9%9B%84%E6%98%AF%E6%81%B6%E6%8A%A5 target="_blank">不是英雄是恶报 </a> </font></li>
 
