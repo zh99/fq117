@@ -21,9 +21,8 @@
 <li><font class="ws11"><a href="https://github.com/osurf/1zdy/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li>
   
 ### 推荐文章：
-### 推荐文章：
- <li><font class="ws11"><a href=https://zh9988.wordpress.com/武汉瘟疫治寻根-历史天象醒今人 target="_blank">高人预警：更大、更猛烈的疫情还会再来</a> </font></li>
-
+ <li><font class="ws11"><a href=https://zh9988.wordpress.com/%E4%BF%AE%E8%80%85%E8%A7%82%E5%A4%A9%E8%B1%A1%E9%A2%84%E8%AD%A6%EF%BC%9A2020%E5%B9%B4%E6%9C%AB%E4%BA%8C%E6%B3%A2%E7%98%9F%E7%96%AB%E5%B0%86%E8%B5%B7%EF%BC%8C%E5%8F%88%E5%B0%86%E5%AE%9A%E6%97%B6/ target="_blank">修者观天象预警：2020年末二波瘟疫将起，又将定时定地？多少人在劫？</a> </font></li>
+ <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E7%96%AB%E8%8B%97%E5%92%8C%E6%95%91%E8%B5%8E%E4%B9%8B%E8%B7%AF target="_blank">疫苗和救赎之路</a> </font></li>
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E4%B8%8D%E6%98%AF%E8%8B%B1%E9%9B%84%E6%98%AF%E6%81%B6%E6%8A%A5 target="_blank">不是英雄是恶报 </a> </font></li>
 
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E5%85%BB%E8%99%8E%E4%B8%BA%E6%82%A3%E3%80%80%E7%BE%8E%E5%9B%BD%E7%96%AB%E6%83%85%E4%B8%BA%E4%BD%95%E4%B8%A5%E9%87%8D target="_blank">养虎为患　美国疫情为何严重 </a> </font></li>
