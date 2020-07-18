@@ -2,7 +2,7 @@
 <div>本站长期可用短网址:https://git.io/zhen9 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
- <li><font class="ws11"><a href="https://gitlab.com/zh99/www/-/blob/master/README.md" title="" target="_blank">明见</a>（含免费翻墙工具）</font></a></font></li  
+ <li><font class="ws11"><a href="https://ghcdn.rawgit.org/umfebr302/www/master/index.html?h" title="" target="_blank">明见</a>（含免费翻墙工具）</font></a></font></li  
 <div>提供每日即时新闻、评论、视频。个别情况如果打不开，请使用<a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">稳定版</a></font>。</font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a 
