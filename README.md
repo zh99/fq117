@@ -13,7 +13,7 @@
   <li><font class="ws11"><a href="https://flowe77.herokuapp.com/" title="" target="_blank">禁网导航、电视直播</a></font></li   
  
 <div>非常好用！部分链接个别时间可能打不开，但站主维护速度很快，可以换个时间再试试。</font></li></div> 
-<div>非常好的电视台，节目丰富，每天用它看新闻，非常方便！</font></li></div> 
+<div>非常好的电视台，节目丰富，品位高雅。每天用它看新闻，非常方便！</font></li></div> 
 
 <div><BR></div>
  <li><font class="ws11"><a href="https://github.com/fqnews/bnews/blob/master/readme.md" title="" target="_blank">24小时热点禁闻</a></font></li   
