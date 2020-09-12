@@ -2,7 +2,7 @@
 <div>本站长期可用短网址:https://git.io/zhen9 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
-    <li><font class="ws11"><a href="https://zh2.zydd999.workers.dev " title="" target="_blank">禁网导航、电视直播</a></font> &nbsp&nbsp &nbsp </font></a></font><a href="https://flower102.herokuapp.com/ "  title="" target="_blank"></font>备用网址</font></a></font></li   
+    <li><font class="ws11"><a href="https://rebrand.ly/pomi" title="" target="_blank">禁网导航、电视直播</a></font> &nbsp&nbsp &nbsp </font></a></font><a href="https://rebrand.ly/zhen"  title="" target="_blank"></font>备用网址</font></a></font></li   
  
 <div>非常好用！部分链接个别时间可能打不开，但站主维护速度很快，可以换个时间再试试。</font></li></div> 
 <div>非常好的电视台，节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
