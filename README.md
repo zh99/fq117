@@ -1,4 +1,5 @@
-# 为你架起一座通向世界的桥梁
+
+## 乌云遮不住辽阔的天空 谎言挡不住真相的传播
 <div>本站长期可用短网址:https://git.io/zhen9 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
@@ -10,24 +11,24 @@
  <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具、每日新闻、精选禁片）</font></a></font></li  
 <div>国外浏览器（Chrome、Edge），请使用:<a href="https://github.com/gfw-breaker/banned-news3/blob/master/README.md"  title="" target="_blank">国外浏览器版</a></font></font></li></div>
 <div><BR></div>
-<li><font class="ws11"><a href=http://206.189.169.160:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
+<li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
 </div>长期访问，推荐使用App,更快、更方便！也可以从这里访问：<a href="https://x.co/ogate" title="" target="_blank">临时简易网址或下载App</a></font></font></li></div>
 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
  
-## 喜剧剧场
+### 喜剧剧场
 
  
-<li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
-<li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
-<li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
- <li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
-<li><font class="ws11"><a href="http://138.197.232.119/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
+<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
+<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
+<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
+ <li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
+<li><font class="ws11"><a href="http://158.247.209.22/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
 <div>幽默新闻频道，段子里的中国与世界！听干净新闻，断是非公案，在真相中找寻时代的灵魂。
 
-## 推荐文章、视频
-<div>国内打开视频有时要等一会儿才能播放
+### 推荐文章、视频
+<div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速较快，也可以在网速快时，先下载下来，以后再看。点击播放画面，即可弹出下载选项。
 <div><BR></div>    
  <li><font class="ws11"><a href="https://github.com/zydd999/bnews/wiki/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E5%9B%B0%E5%A2%83%E5%8F%8A%E5%87%BA%E8%B7%AF%E4%B9%8B%E6%80%9D%E8%80%83" title="" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></font></a></font></li  
  <div>作者简介： 董宇红，传染病学医学博士，前瑞士诺华制药公司，抗病毒药物开发高级医学科学顾问。 林晓旭，微生物学和免疫学博士，美国前陆军微生物学研究员，Walter Reed陆军研究所病毒系实验室主任。</font></li></div> 
@@ -60,3 +61,6 @@
 <div><BR></div>
   
 <div><h4>再次提醒：使用国外浏览器，速度更快、更稳定！<h4></div>
+
+
+
