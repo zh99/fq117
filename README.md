@@ -17,15 +17,7 @@
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
  
-### 喜剧剧场
 
- 
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
- <li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
-<li><font class="ws11"><a href="http://158.247.209.22/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
-<div>幽默新闻频道，段子里的中国与世界！听干净新闻，断是非公案，在真相中找寻时代的灵魂。
 
 ### 推荐文章、视频
 <div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速较快，也可以在网速快时，先下载下来，以后再看。点击播放画面，即可弹出下载选项。
