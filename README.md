@@ -7,14 +7,14 @@
 
 <div><BR></div>
     <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航</a></font>  &nbsp </font></a>（含电视直播、名家评论） </li>
- 
+ <div><BR></div>
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具、每日新闻、精选禁片）</font></a></font></li  
 <div>国外浏览器（Chrome、Edge），请使用:<a href="https://github.com/gfw-breaker/banned-news3/blob/master/README.md"  title="" target="_blank">国外浏览器版</a></font></font></li></div>
 <div><BR></div>
-v>
+
 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
