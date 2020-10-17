@@ -3,21 +3,28 @@
 <div>本站长期可用短网址:https://git.io/zhen9 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
-<li><font class="ws11"><a href=https://x.co/ddw  title="" target="_blank">动态</a></font></a></font></li >  
-</div>长期访问，推荐使用App,更快、更方便！也可以从这里访问：<a href="https://x.co/ogate" title="" target="_blank">临时简易网址或下载App</a></font></font></li></div>
-
+<li><font class="ws11"><a href=https://x.co/ddw title="" target="_blank">动态</a></font></a></font></li>  
+<div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
 <div><BR></div>
-    <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航</a></font>  &nbsp </font></a>（含电视直播、名家评论） </li>
-
-<div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
+<li><font class="ws11"><a href=https://github.com/pfnspx389/www/blob/master/README.md#dt2121 title="" target="_blank">明见</a></font>（含多个免费越墙工具）</a></font></li>  
+<div><BR></div>       
+    
+ <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航</a></font>  &nbsp </font></a>（含电视直播、名家评论） </li>
+ 
+<div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
- <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具、每日新闻、精选禁片）</font></a></font></li  
-<div>国外浏览器（Chrome、Edge），请使用:<a href="https://github.com/gfw-breaker/banned-news3/blob/master/README.md"  title="" target="_blank">国外浏览器版</a></font></font></li></div>
+ 
+
+<li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
+ <div>推荐栏目：</div>
+ <div>越墙必看视频</div>
+ <div>时事小品</div>
+ <div>揭秘央视运作喜剧《大裤衩》  </div>
+ <div>揭秘红朝乱象喜剧《雷人水浒》  </div>
+ <div>北京老茶馆  </div>
+
 <div><BR></div>
-
-
-
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
  
 
@@ -56,6 +63,5 @@
 <div><BR></div>
   
 <div><h4>再次提醒：使用国外浏览器，速度更快、更稳定！<h4></div>
-
 
 
