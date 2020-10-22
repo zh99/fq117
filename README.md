@@ -16,13 +16,6 @@
 <div><BR></div>
  
 
-<li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
- <div>推荐栏目：</div>
- <div>越墙必看视频</div>
- <div>时事小品</div>
- <div>揭秘央视运作喜剧《大裤衩》  </div>
- <div>揭秘红朝乱象喜剧《雷人水浒》  </div>
- <div>北京老茶馆  </div>
 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
