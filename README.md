@@ -10,8 +10,7 @@
 <div><BR></div>
  <li><font class="ws11"><a href=https://l4u.in/odoor title="" target="_blank">网门</a></font></a></font></li>   
  <div><BR></div>
-<li><font class="ws11"><a href=https://github.com/pfnspx389/www/blob/master/README.md#dt2121 title="" target="_blank">明见</a></font>（含多个免费越墙工具）</a></font></li>  
-<div><BR></div>       
+     
     
  <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航</a></font>  &nbsp </font></a>（含电视直播、名家评论） </li>
  
