@@ -29,7 +29,7 @@
 <div><BR></div>    
 <li><font class="ws11"><a href="https://gitlab.com/szzdlab/www/raw/master/v/SoundOfHope_360p.mp4" title="" target="_ blank">短视频：希望的声音</a></font></a></font></li 
   <div>以一对母子的故事为主线展开，深刻而真实的再现了处于疫情肆虐中的武汉市民惨烈的生活状态；同时，也为处于绝望的同胞带来温暖和希望。
- <div><BR></div>    
+   
  <div>影片历时20分钟，剧情细腻感人，画面极富冲击力。影片试映时，获得观众广泛好评，有观众当场感动落泪。
      <div><BR></div>       
   <li><font class="ws11"><a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" title="" target="_blank">纪录片：一个渐冻人的康复奇迹</a></font></a></font></li 
