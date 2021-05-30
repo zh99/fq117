@@ -11,12 +11,7 @@
 <li><font class="ws11"><a href=https://github.com/pfnspx389/www/blob/master/README.md#dt2121 title="" target="_blank">明见</a></font>（含多个免费越墙工具）</a></font></li>  
 <div><BR></div>       
     
- <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航</a></font>  &nbsp </font></a>（含电视直播、名家评论） </li>
- 
-<div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
-<div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
-<div><BR></div>
- 
+
 
 
 
