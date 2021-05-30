@@ -27,13 +27,7 @@
 ### 推荐文章、视频
 <div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速较快，也可以在网速快时，先下载下来，以后再看。点击播放画面，即可弹出下载选项。
 <div><BR></div>    
- <li><font class="ws11"><a href="https://github.com/zydd999/bnews/wiki/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E5%9B%B0%E5%A2%83%E5%8F%8A%E5%87%BA%E8%B7%AF%E4%B9%8B%E6%80%9D%E8%80%83" title="" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></font></a></font></li  
- <div>作者简介： 董宇红，传染病学医学博士，前瑞士诺华制药公司，抗病毒药物开发高级医学科学顾问。 林晓旭，微生物学和免疫学博士，美国前陆军微生物学研究员，Walter Reed陆军研究所病毒系实验室主任。</font></li></div> 
- <div><BR></div>
-     
- <li><font class="ws11"><a href="https://gitlab.com/szzdlab/m1/raw/master/dexl.mp4" title="" target="_blank">纪录片：大疫袭来</a></font></a></font></li 
-<div> 历史上，瘟疫曾经多次降临，摧毁强大的帝国，夺走鲜活的生命。今天，新冠病毒导致上千万人感染，数十万人死亡；封城、封国、社交距离改变了生活常态，全球经济衰退，未来阴晴不定，人类正处在命运的转折点。疫情阴影下，New Tang Dynasty Television最新纪录片《大疫袭来》与您共同寻找答案。</font></li></div> 
-  <div><BR></div>
+
       <li><font class="ws11"><a href="https://gitlab.com/szzdlab/www/raw/master/v/SoundOfHope_360p.mp4" title="" target="_ blank">短视频：希望的声音</a></font></a></font></li 
   <div>以一对母子的故事为主线展开，深刻而真实的再现了处于疫情肆虐中的武汉市民惨烈的生活状态；同时，也为处于绝望的同胞带来温暖和希望。
  <div>影片历时20分钟，剧情细腻感人，画面极富冲击力。影片试映时，获得观众广泛好评，有观众当场感动落泪。
