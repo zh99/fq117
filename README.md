@@ -23,6 +23,9 @@
 ### 推荐文章、视频
 <div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速较快，也可以在网速快时，先下载下来，以后再看。点击播放画面，即可弹出下载选项。
 <div><BR></div>    
+  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/pvdzfzx/raw/master/public/zfzx.webm" title="" target="_blank">自焚还是骗局？</a></font></a></font></li 
+  <div>如果一个组织连这种事情都能做出来，还有什么谎言是它不能编造的？
+    <div><BR></div>
 <li><font class="ws11"><a href="https://gitlab.com/szzdlab/www/raw/master/v/SoundOfHope_360p.mp4" title="" target="_ blank">短视频：希望的声音</a></font></a></font></li 
   <div>以一对母子的故事为主线展开，深刻而真实的再现了处于疫情肆虐中的武汉市民惨烈的生活状态；同时，也为处于绝望的同胞带来温暖和希望。
    
