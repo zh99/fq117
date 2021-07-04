@@ -2,6 +2,7 @@
 ## 乌云遮不住辽阔的天空 谎言挡不住真相的传播
 <div>本站长期可用短网址:https://git.io/zhen9 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
+<div>github有时不太稳定，有时需要多刷几次才能打开。</div>
 <div><BR></div>
 <li><font class="ws11"><a href=https://x.co/ddw title="" target="_blank">动态</a></font></a></font></li>  
 <div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
