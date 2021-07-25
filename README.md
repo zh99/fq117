@@ -7,8 +7,11 @@
  <div><BR></div>
 <li><font class="ws11"><a href=https://github.com/pfnspx389/www/blob/master/README.md#dt2121 title="" target="_blank">明见</a></font></a></font></li>  
 <div><BR></div>       
-    
+   
 <li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font></a></font></li>  
+<div><BR></div>    
+<div>github近期不太稳定，有时需要多刷几次才能打开。</div>
+<li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news3/blob/master/pages/nf4514/n13112610.md?t=07251701 title="" target="_blank">禁闻聚合</a></font>（国产浏览打不开）</a></font></li>  
 <div><BR></div>    
 <div>github近期不太稳定，有时需要多刷几次才能打开。</div>
 
