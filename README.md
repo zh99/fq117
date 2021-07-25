@@ -9,7 +9,7 @@
 <div><BR></div>       
     
 <div><BR></div>
-<li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank"聚缘阁</a></font>直接越墙</a></font></li>  
+<li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font>(直接越墙)</a></font></li>  
 <div><BR></div>    
 
 
