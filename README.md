@@ -8,7 +8,7 @@
 <li><font class="ws11"><a href=https://github.com/pfnspx389/www/blob/master/README.md#dt2121 title="" target="_blank">明见</a></font></a></font></li>  
 <div><BR></div>       
     
-<li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font>(直接越墙)</a></font></li>  
+<li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font></a></font></li>  
 <div><BR></div>    
 <div>github近期不太稳定，有时需要多刷几次才能打开。</div>
 
