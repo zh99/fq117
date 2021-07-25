@@ -8,7 +8,9 @@
 <li><font class="ws11"><a href=https://github.com/pfnspx389/www/blob/master/README.md#dt2121 title="" target="_blank">明见</a></font>（含多个免费越墙工具）</a></font></li>  
 <div><BR></div>       
     
-
+<div><BR></div>
+<li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank"聚缘阁</a></font>直接越墙</a></font></li>  
+<div><BR></div>    
 
 
 
