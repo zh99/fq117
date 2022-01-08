@@ -4,7 +4,7 @@
 <div>除软件精选外，其余链接国产浏览器都打不开，推荐使用谷歌Chrom、微软Edge。</div>
 
 <h3><p><strong>免费翻墙软件精选</strong></p></h3>
-绿色、安全、免费，帮您破除网络封禁，一键上外网。<br>
+绿色、安全、免费，帮您破除网络封禁，一键上外网。个别软件有时可能连接不上，但是换个时间可能速度飞快！<br>
 
 <p><details><summary><a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/SzzdOgate.apk">神州明见（安卓版）</a>&nbsp;&nbsp;&nbsp;&nbsp;:arrow_double_down:</p></summary>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/szzdogate.zip">神州明见（网页版）</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
